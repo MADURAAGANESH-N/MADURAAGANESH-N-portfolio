@@ -1,6 +1,6 @@
 # Hi, I'm Maduraaganesh N. 👋
 
-### **AI Engineer @ Zoho | B.Tech – Information Technology**
+### **AI Engineer | B.Tech – Information Technology**
 
 Building intelligent systems and practical AI solutions that turn complex problems into impactful products. Focused on engineering high-impact Artificial Intelligence, Generative AI, and Machine Learning systems with scalable software architectures.
 
@@ -37,7 +37,6 @@ Tools:         Git, GitHub, Docker, Linux
 
 ### 📬 Connect With Me
 
-- 💼 **Company**: [Zoho](https://www.zoho.com)
 - 🐙 **GitHub**: [MADURAAGANESH-N](https://github.com/MADURAAGANESH-N)
 - 🔗 **LinkedIn**: [Add correct public LinkedIn URL]
 - 📧 **Email**: [nmaduraaganesh@gmail.com](mailto:nmaduraaganesh@gmail.com)
